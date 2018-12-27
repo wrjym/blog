@@ -22,7 +22,7 @@ name                     : "Your Name"
 description              : "안녕하십니까 김용민입니다."
 url                      : "https://wrjym.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "blog" "public"
+repository               : "blog" "public"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
